@@ -3,6 +3,6 @@
 Industrial Engineer specialized in Data Science & AI  
 **Visual Analytics | BI | Python | Machine Learning**
 
-### 🌐 Connect with me
+🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/dayanabedoyavalestt)
 ---
